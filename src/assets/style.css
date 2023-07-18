@@ -139,3 +139,8 @@ Posts
 .loading {
     text-align: center;
 }
+
+
+.posts ul {
+    padding: 0;
+}
